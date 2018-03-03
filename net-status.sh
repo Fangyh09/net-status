@@ -1,4 +1,6 @@
 #/bin/bash
+#author fangyh
+
 declare -a arr=("www.baidu.com" "www.github.com" 
 "www.126.com")
 
