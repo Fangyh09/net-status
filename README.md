@@ -17,5 +17,5 @@ sudo ln -s net-status.sh /usr/local/bin/netstatus
 ```bash
 1. bash net-status.sh or 
 2. ./net-status.sh or
-3. netstatus (if have linked it to /usr/local/bin/gpustatus)
+3. netstatus (if have linked it to /usr/local/bin/netstatus)
 ```
