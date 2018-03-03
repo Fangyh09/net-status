@@ -6,7 +6,7 @@ A tiny but useful command line tool to show `ping` cost time for each ip address
 
 # Install
 ```bash
-wget https://github.com/Fangyh09/net-status/blob/master/net-status.sh
+wget https://raw.githubusercontent.com/Fangyh09/net-status/master/net-status.sh
 chmod 755 net-status.sh
 
 # optional 
